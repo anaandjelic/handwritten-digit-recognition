@@ -1,0 +1,5 @@
+*.idx1-ubyte
+*.idx3-ubyte
+.ipynb_checkpoints
+data/*
+!data/.gitkeep
